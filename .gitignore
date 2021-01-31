@@ -13,3 +13,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+.dockerignore
+.idea/
+Jenkinsfile
+Dockerfile
+derrick_conf
+docker-compose.yml
+kubernetes-deployment.yaml
